@@ -32,7 +32,8 @@ jobs:
         with:
           output-directory: build # must match path below
           accent-color: indigo # options: tomato, red, crimson, pink, plum, purple, violet, indigo, blue, cyan, teal, green, grass, orange, brown
-          exclude: .github assets .gitignore LICENSE README.md
+          # Excludes the `assets-exist-and-are-used` test
+          exclude: assets-exist-and-are-used
       - name: Configure for GitHub Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
