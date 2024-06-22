@@ -95,6 +95,14 @@
  ;; This option takes precedence over the local `logseq/custom.css` file.
  ;; Example usage:
  ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/dracula/logseq@master/custom.css');"
+ ;; :custom-css-url "@import url('https://logseq.catppuccin.com/ctp-latte.css');"
+ ;; :custom-css-url "@import url('https://rcvd.github.io/logseq-bear-theme/bear.css');"
+ ;; :custom-css-url "@import url('https://rcvd.github.io/logseq-css-system/output/bear.css');"
+ ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/pengx17/logseq-dev-theme@main/custom.css');"
+ ;; :custom-css-url "@import url('https://wirtzdan.github.io/logseq-paper-theme/custom.css');"
+ ;; :custom-css-url "@import url('https://rcvd.github.io/logseq-quattro-theme/quattro.css');"
+ :custom-css-url "@import url('https://raw.githubusercontent.com/ttytm/logseq-allday-theme/main/custom.css');"
+ ;; :custom-css-url "@import url('https://cdn.jsdelivr.net/gh/sokirill/logseq-panic-theme@main/custom.css');"
 
  ;; Specify a custom JS import.
  ;; This option takes precedence over the local `logseq/custom.js` file.
