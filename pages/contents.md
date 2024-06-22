@@ -1,4 +1,6 @@
-# Logseq Starter Graph
+public:: true
+
+- # Logseq Starter Graph
 	- ![img](https://img.shields.io/github/languages/code-size/semanticdata/logseq-starter-graph) ![img-2](https://img.shields.io/github/repo-size/semanticdata/logseq-starter-graph) ![img-3](https://img.shields.io/github/commit-activity/t/semanticdata/logseq-starter-graph) ![img-4](https://img.shields.io/github/last-commit/semanticdata/logseq-starter-graph) ![img-5](https://img.shields.io/website/https/semanticdata.github.io/logseq-starter-graph.svg)
 	- A Logseq Starter.
 - ## ✨ Features
