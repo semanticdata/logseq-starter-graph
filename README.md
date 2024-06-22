@@ -10,6 +10,10 @@
 
 A Logseq Starter.
 
+## ✨ Features
+
+- Optional custom CSS themes.[^1]
+
 ## 📢 Publish Logseq Graph to GitHub Pages
 
 Here's a step-by-step guide to publish your Logseq graph to GitHub Pages. We recommend using the [workflow](.github/workflows/logseq-publish.yml) provided with the project to publish your graph to GitHub Pages. To do so, follow the steps below.
@@ -206,3 +210,5 @@ steps:
 ## © License
 
 Source code in this repository is available under the [MIT License](LICENSE).
+
+[^1]: Optional custom CSS themes can be adjusted in [logseq/config.edn](logseq/config.edn). It includes links to popular themes like: dracula, catppuccin, logseq-bear, logseq-paper, logseq-quattro, logseq-allday and logseq-dev.
