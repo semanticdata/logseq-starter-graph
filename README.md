@@ -20,13 +20,21 @@ We recommend using the [publish workflow](https://github.com/semanticdata/logseq
 
 At the top of the repository, click **Settings**.
 
-![repository settings](assets/repository-settings.png)
+<div align="center">
+
+| ![repository settings](assets/repository-settings.png) |
+| --- |
+</div>
 
 ### 2. Navigate to the Pages Section
 
 On the left sidebar, click **Pages** under *Code and automation*.
 
-![source branch](assets/source-branch.png)
+<div align="center">
+
+| ![source branch](assets/source-branch.png) |
+| --- |
+</div>
 
 ### 3. Configure GitHub Pages Source to GitHub Actions
 
@@ -42,17 +50,29 @@ Under the *Build and deployment* section, under **Source**, change it from **Dep
 
 At the top of the repository, click **Actions**.
 
-![repository actions](assets/repository-actions.png)
+<div align="center">
+
+| ![repository actions](assets/repository-actions.png) |
+| --- |
+</div>
 
 ### 5. Run the Workflow for the First Time
 
 On the left sidebar, click the workflow name (**Validate and Publish Logseq Graph to GitHub Pages**).
 
-![action summary](assets/action-summary.png)
+<div align="center">
+
+| ![action summary](assets/action-summary.png) |
+| --- |
+</div>
 
 On the right, click **Run workflow**, then click on the new **Run workflow** (blue) button.
 
-![action runs](assets/action-runs.png)
+<div align="center">
+
+| ![action runs](assets/action-runs.png) |
+| --- |
+</div>
 
 ### 6. Be Patient
 
@@ -60,7 +80,11 @@ On the right, click **Run workflow**, then click on the new **Run workflow** (bl
 
 Take a look at the first run for *this* repository:
 
-![action duration](assets/action-duration.png)
+<div align="center">
+
+| ![action duration](assets/action-duration.png) |
+| --- |
+</div>
 
 Over 11 minutes!
 
@@ -72,21 +96,35 @@ But as you can see in the next screenshot, the next time you run the workflow, i
 | --- |
 </div>
 
+![action faster](assets/action-faster.png)
+
 Just over 1 minute!
 
 ### 7. Use your GitHub Pages website url
 
 Back at the repository landing page, click the ⚙ (Gear) icon to edit the repository details.
 
-![repository sidebar](assets/repository-sidebar.png)
+<div align="center">
+
+| ![repository sidebar](assets/repository-sidebar.png) |
+| --- |
+</div>
 
 Under *Website*, click **Use your GitHub Pages website**.
 
-![repository details](assets/repository-details.png)
+<div align="center">
+
+| ![repository details](assets/repository-details.png) |
+| --- |
+</div>
 
 It will populate the URL field with your own GitHub Pages website address. It should look like `https://your-username.github.io/logseq-starter-graph/`.
 
-![repository url](assets/repository-url.png)
+<div align="center">
+
+| ![repository url](assets/repository-url.png) |
+| --- |
+</div>
 
 > Note: This is a good time to add a description to your project.
 
@@ -94,7 +132,11 @@ It will populate the URL field with your own GitHub Pages website address. It sh
 
 Save your changes and take a look at your repository details.
 
-![repository details filled](assets/repository-details-filled.png)
+<div align="center">
+
+| ![repository details filled](assets/repository-details-filled.png) |
+| --- |
+</div>
 
 Enjoy using the Logseq Starter Graph!
 
