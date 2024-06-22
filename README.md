@@ -1,12 +1,20 @@
 # Logseq Starter Graph
 
+<p>
+<img src="https://img.shields.io/github/languages/code-size/semanticdata/logseq-starter-graph" />
+<img src="https://img.shields.io/github/repo-size/semanticdata/logseq-starter-graph" />
+<img src="https://img.shields.io/github/commit-activity/t/semanticdata/logseq-starter-graph" />
+<img src="https://img.shields.io/github/last-commit/semanticdata/logseq-starter-graph" />
+<img src="https://img.shields.io/website/https/semanticdata.github.io/logseq-starter-graph.svg" />
+</p>
+
 A Logseq Starter.
 
 ## 🔀 Workflows
 
 ### Validate ✅
 
-The [validate workflow](https://github.com/semanticdata/dulidae/blob/main/.github/workflows/logseq-validate.yml) runs tests on the graph to identify any errors using [logseq/graph-validator](https://github.com/logseq/graph-validator).
+The [validate workflow](https://github.com/semanticdata/logseq-starter-graph/blob/main/.github/workflows/logseq-validate.yml) runs tests on the graph to identify any errors using [logseq/graph-validator](https://github.com/logseq/graph-validator).
 
 ```yml
 name: Validate Logseq Graph
@@ -19,7 +27,7 @@ steps:
 
 ### Publish 📢
 
-The [publish](https://github.com/semanticdata/dulidae/blob/main/.github/workflows/logseq-publish.yml) workflow builds and deploys the graph to GitHub Pages using [logseq/publish-spa](https://github.com/logseq/publish-spa).
+The [publish](https://github.com/semanticdata/logseq-starter-graph/blob/main/.github/workflows/logseq-publish.yml) workflow builds and deploys the graph to GitHub Pages using [logseq/publish-spa](https://github.com/logseq/publish-spa).
 
 ```yml
 name: Publish Logseq Graph
