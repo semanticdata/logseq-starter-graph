@@ -10,6 +10,19 @@
 
 A Logseq Starter.
 
+## 📢 Publish to GitHub Pages
+
+We recommend using the [publish workflow](https://github.com/semanticdata/logseq-starter-graph/blob/main/.github/workflows/logseq-publish.yml) to publish your graph to GitHub Pages. To do so, follow the steps below:
+
+### 1. Open the Repository Settings
+
+![repository settings](assets/repository-settings.png)
+
+### 2. Change GitHub Pages Source to GitHub Actions
+
+![source branch](assets/source-branch.png)
+![source actions](assets/source-actions.png)
+
 ## 🔀 Workflows
 
 ### Validate ✅
