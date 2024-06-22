@@ -1,2 +1,3 @@
-# logseq-starter-graph
+# Logseq Starter Graph
+
 A Logseq Starter.
