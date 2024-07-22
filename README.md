@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/website/https/semanticdata.github.io/logseq-starter-graph.svg" />
 </p>
 
-A Logseq Starter.
+A Logseq Starter. Read the blog [post](https://miguelpimentel.do/publish-logseq-to-github-pages/). Visit the [demo](https://semanticdata.github.io/logseq-starter-graph/).
 
 ## ✨ Features
 
